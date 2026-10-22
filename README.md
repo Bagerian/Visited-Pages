@@ -58,4 +58,4 @@ Firefox **128 or newer**.
 
 ---
 
-**[Get Visited Pages for Firefox](https://addons.mozilla.org/pl/firefox/addon/visitedpages/)** · **Feedback and support: GitHub Issues**
+**[Get Visited Pages for Firefox](https://addons.mozilla.org/pl/firefox/addon/visitedpages/)**
